@@ -1,0 +1,6 @@
+// the configured options and settings for Tutorial
+#define hyphenate_VERSION_MAJOR @hyphenate_VERSION_MAJOR@
+#define hyphenate_VERSION_MINOR @hyphenate_VERSION_MINOR@
+#define hyphenate_VERSION_PATCH @hyphenate_VERSION_PATCH@
+
+#define HYPHEN_DICT_LOC "/usr/share/hyphen/"
