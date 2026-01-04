@@ -3,6 +3,7 @@
 #include <iostream>
 #include <sstream>
 #include <string>
+#include <cstring>
 #include <regex>
 #include <hyphen.h>
 #include "config.h"
